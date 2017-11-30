@@ -1,0 +1,2 @@
+# ForteMag
+Entrepreneur's magazine
